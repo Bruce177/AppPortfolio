@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">AppPortfolio</string>
+
+    <string name="PopularMovieMessage">This button will launch my Popular Movie app</string>
+    <string name="StoctHawkMessage">This button will launch my Stoct Hawk app</string>
+    <string name="BuildItBiggerMessage">This button will launch my Build It Bigger app</string>
+    <string name="MakeYourAppMaterialMessage">This button will launch my Make Your App Material app</string>
+    <string name="GoUbiquitousMessage">This button will launch my Ubiquitous app</string>
+    <string name="CatstoneMessage">This button will launch my Catstone app</string>
 </resources>
